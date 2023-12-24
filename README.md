@@ -3,15 +3,16 @@
 
 ## Workflows
 
-1. Update config.yml
-2. Update secrets.yml
-3. Update params.yml
+1. Update config.yaml
+2. Update secrets.yaml
+3. Update params.yaml
 4. Update the entity
 5. Update configuation manager in src config
 6. Update components
 7. Update pipeline
 8. Update main.py
-9. Update dvc.yml
+9. Update dvc.yaml
+10. app.py
 
 
 # How to run?
