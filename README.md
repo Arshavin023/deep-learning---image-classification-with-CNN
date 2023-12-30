@@ -40,3 +40,31 @@ conda activate kidney
 ```bash
 pip install -r requirements.txt
 ```
+
+
+```
+##### cmd
+- mlflow ui
+
+```
+
+### dagshub
+[dagshub](https://dagshub.com/),
+
+MLFLOW_TRACKING_URI=https://dagshub.com/Arshavin023/deep-learning---image-classification-with-CNN.mlflow
+MLFLOW_TRACKING_USERNAME=Arshavin023
+MLFLOW_TRACKING_PASSWORD=3a6add494bc8a69b0623dd2f8030d353dde15622
+
+Run this to export as env variables:
+
+```bash
+export MLFLOW_TRACKING_URI=https://dagshub.com/Arshavin023/deep-learning---image-classification-with-CNN.mlflow
+export MLFLOW_TRACKING_USERNAME=Arshavin023
+export MLFLOW_TRACKING_PASSWORD=3a6add494bc8a69b0623dd2f8030d353dde15622
+```
+
+```windows
+set MLFLOW_TRACKING_URI=https://dagshub.com/Arshavin023/deep-learning---image-classification-with-CNN.mlflow
+set MLFLOW_TRACKING_USERNAME=Arshavin023
+set MLFLOW_TRACKING_PASSWORD=3a6add494bc8a69b0623dd2f8030d353dde15622
+```
