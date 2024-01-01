@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/5300/Desktop/image_classification/mlruns/0/7167acbe32d541119219f509bea49789/artifacts
+end_time: 1704102917965
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7167acbe32d541119219f509bea49789
+run_name: gentle-hound-849
+run_uuid: 7167acbe32d541119219f509bea49789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704102917898
+status: 3
+tags: []
+user_id: '5300'

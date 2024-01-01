@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/5300/Desktop/image_classification/mlruns/0/968720d49da240148c7b08427b560df9/artifacts
+end_time: 1704102928779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 968720d49da240148c7b08427b560df9
+run_name: bittersweet-toad-887
+run_uuid: 968720d49da240148c7b08427b560df9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704102917977
+status: 3
+tags: []
+user_id: '5300'
