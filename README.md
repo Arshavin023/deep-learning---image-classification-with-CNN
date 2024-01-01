@@ -51,10 +51,6 @@ pip install -r requirements.txt
 ### dagshub
 [dagshub](https://dagshub.com/),
 
-MLFLOW_TRACKING_URI=https://dagshub.com/Arshavin023/deep-learning---image-classification-with-CNN.mlflow
-MLFLOW_TRACKING_USERNAME=Arshavin023
-MLFLOW_TRACKING_PASSWORD=3a6add494bc8a69b0623dd2f8030d353dde15622
-
 Run this to export as env variables:
 
 ```bash
