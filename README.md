@@ -70,8 +70,9 @@ set MLFLOW_TRACKING_PASSWORD=3a6add494bc8a69b0623dd2f8030d353dde15622
 ```
 
 ### DVC cmd
-```bash
-dvv init
-dvc repro
-dvc dag
-```
+1. dvv init
+2. dvc repro
+3. dvc dag
+
+### DVC pipeline graph cmd
+1. dvc dag
