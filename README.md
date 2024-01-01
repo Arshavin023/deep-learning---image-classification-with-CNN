@@ -68,3 +68,8 @@ set MLFLOW_TRACKING_URI=https://dagshub.com/Arshavin023/deep-learning---image-cl
 set MLFLOW_TRACKING_USERNAME=Arshavin023
 set MLFLOW_TRACKING_PASSWORD=3a6add494bc8a69b0623dd2f8030d353dde15622
 ```
+
+### DVC cmd
+dvv init
+dvc repro
+dvc dag
