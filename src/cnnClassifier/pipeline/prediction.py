@@ -7,10 +7,10 @@ import os
 # Prediction Pipeline class
 class PredictPipeline:
     def __init__(self, filename):
-        self.filename = filename
+        self.filename  = filename
     
     def predict(self):
-        model = load_model(os.path.join("artifacts","training","model.h5"))
+        model = load_model(os.path.join("model","model.h5"))
         imagename = self.filename
         test_image = image.load_img(imagename, target_size=(224,224))
         test_image = image.img_to_array(test_image)
